@@ -1,0 +1,6 @@
+Monday:
+  - Introduction to Cyber Security (FC112) [Online, Time: 11:00 AM, Day: Monday]
+Wed:
+  - Software Engineering (SE301) [Regular, Room: Room 204, Schedule: Wed]
+Tuesday:
+  - Data Ethics (CS300) [Online, Time: 2:00 PM, Day: Tuesday]
